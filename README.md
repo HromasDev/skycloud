@@ -1,3 +1,3 @@
 # skycloud
 
-![](my_video.mov)
+![](games.mp4)
